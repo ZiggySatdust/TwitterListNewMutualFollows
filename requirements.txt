@@ -1,0 +1,3 @@
+pandas~=1.5.0
+TwitterAPI~=2.7.13
+deepdiff~=5.8.1
